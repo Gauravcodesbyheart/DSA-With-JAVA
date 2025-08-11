@@ -1,15 +1,17 @@
 {
     "java.project.sourcePaths": [
         "basics not part of alpha",
-        "8. conditional statements",
-        "6.variables and datastructures",
-        "7.operators",
         "9.Loops",
-        "10.functions and methods",
+        "8. conditional statements",
+        "7.operators",
+        "6.variables and datastructures",
+        "12.Pattern advanced(part-2)",
         "11.functions and methods",
         "10.Patterns(Part-1)",
-        "12.Pattern advanced(part-2)"
+        "13.Array"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    
+    "java.format.settings.url": ".vscode/java-formatter.xml"
     
 }
