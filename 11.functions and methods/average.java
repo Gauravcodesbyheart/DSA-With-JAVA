@@ -11,6 +11,7 @@ public static void main (String args[]){
     System.out.println("Enter the second number.");
     double y = sc.nextDouble();
     System.out.println("Enter the third number.");
+    
     double z = sc.nextDouble();
     double result = averagenum(x,y,z);
     System.out.println("Average of two numbers is "+result);

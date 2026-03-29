@@ -14,7 +14,6 @@ public class agegroups {
             System.out.println("Child");
         }
         sc.close();
-
-    }
     
+    } 
 }

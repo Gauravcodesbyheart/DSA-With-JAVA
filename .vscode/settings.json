@@ -9,10 +9,23 @@
         "11.functions and methods",
         "10.Patterns(Part-1)",
         "13.Array",
-        "18.OOPS"
+        "18.OOPS",
+        "14.Basic sorting algorithm"
     ],
     "java.project.referencedLibraries": [],
     
-    "java.format.settings.url": ".vscode/java-formatter.xml"
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "java.completion.favoriteStaticMembers": [
+        
+        "org.junit.Assert.*",
+        "org.junit.Assume.*",
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.jupiter.api.Assumptions.*",
+        "org.junit.jupiter.api.DynamicContainer.*",
+        "org.junit.jupiter.api.DynamicTest.*",
+        "org.mockito.Mockito.*",
+        "org.mockito.ArgumentMatchers.*",
+        "org.mockito.Answers.*"
+    ]
     
 }

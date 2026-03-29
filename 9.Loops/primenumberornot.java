@@ -1,6 +1,6 @@
 import java.util.*;
 public class primenumberornot {
-    public static void main (String args[]){
+   public static void main (String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number you want to find either it is prime or not");
         int n = sc.nextInt();
