@@ -19,7 +19,7 @@ class Horse1 extends Animal1{
         super();
         super.color="Brown";
         
-        System.out.println("Horse Cnstruictor is called..");
+        System.out.println("Horse Cnstructor is called..");
     }
     
 }

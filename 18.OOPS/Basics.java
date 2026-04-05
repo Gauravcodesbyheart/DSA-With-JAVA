@@ -14,9 +14,7 @@ public class Basics{
 }
 class BankAccount{
     public String username;
-    private String password;
     public void setPassword(String pwd){
-        password=pwd;
     }
 } 
 class Pen{
