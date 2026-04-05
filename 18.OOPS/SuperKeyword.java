@@ -1,7 +1,7 @@
 public class SuperKeyword {
     public static void main (String args[]){
         Horse1 H1 = new Horse1();
-        
+        System.out.println("Horse color is: " + H1.color);
     }
     
 }
