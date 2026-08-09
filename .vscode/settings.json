@@ -3,14 +3,14 @@
         "basics not part of alpha",
         "9.Loops",
         "8. conditional statements",
-        "7.operators",
         "6.variables and datastructures",
+        "22.BACKTRACKING",
+        "18.OOPS",
+        "13.Array",
         "12.Pattern advanced(part-2)",
         "11.functions and methods",
         "10.Patterns(Part-1)",
-        "13.Array",
-        "18.OOPS",
-        "14.Basic sorting algorithm"
+        "23.ArrayList"
     ],
     "java.project.referencedLibraries": [],
     
